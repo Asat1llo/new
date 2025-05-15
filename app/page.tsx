@@ -1,6 +1,9 @@
+import Hero from "./hero/hero";
 
 export default function Home() {
   return (
-   <>Salom bu men new projectim</>
+   <>
+   <Hero/>
+   </>
   );
 }
